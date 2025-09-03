@@ -1,0 +1,160 @@
+Uri: https://deebo.io/
+File Name: C:\Downloaded Web Sites\deebo.io\index.htm
+Content Type: text/html
+
+Uri: https://deebo.io/icons/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\deebo.io\icons\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://deebo.io/icons/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\deebo.io\icons\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://deebo.io/icons/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\deebo.io\icons\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://deebo.io/static/css/main.afd66f4e.css
+File Name: C:\Downloaded Web Sites\deebo.io\static\css\main.afd66f4e.css
+Content Type: text/css
+
+Uri: https://deebo.io/static/fonts/deebo.5c5f0f62cb069f9826a0.woff2
+File Name: C:\Downloaded Web Sites\deebo.io\static\fonts\deebo.5c5f0f62cb069f9826a0.woff2
+Content Type: font/woff2
+
+Uri: https://deebo.io/static/js/index.min.js
+File Name: C:\Downloaded Web Sites\deebo.io\static\js\index.min.js
+Content Type: application/javascript
+
+Uri: https://deebo.io/static/media/bullclouds.559480ba2c246bc0d9e0.webp
+File Name: C:\Downloaded Web Sites\deebo.io\static\media\bullclouds.559480ba2c246bc0d9e0.webp
+Content Type: image/webp
+
+Uri: https://deebo.io/static/media/check.2ac49d2d8f713cae596e.svg
+File Name: C:\Downloaded Web Sites\deebo.io\static\media\check.2ac49d2d8f713cae596e.svg
+Content Type: image/svg+xml
+
+Uri: https://deebo.io/static/media/clipboard.812c5db770fce1bcecef.svg
+File Name: C:\Downloaded Web Sites\deebo.io\static\media\clipboard.812c5db770fce1bcecef.svg
+Content Type: image/svg+xml
+
+Uri: https://deebo.io/static/media/clouds-monitor.42efb0e821cadecc60a1.webp
+File Name: C:\Downloaded Web Sites\deebo.io\static\media\clouds-monitor.42efb0e821cadecc60a1.webp
+Content Type: image/webp
+
+Uri: https://deebo.io/static/media/clouds.5ee671a935f76da3e2b2.webp
+File Name: C:\Downloaded Web Sites\deebo.io\static\media\clouds.5ee671a935f76da3e2b2.webp
+Content Type: image/webp
+
+Uri: https://deebo.io/static/media/cmc-ico.f69c3285576b1582b646.svg
+File Name: C:\Downloaded Web Sites\deebo.io\static\media\cmc-ico.f69c3285576b1582b646.svg
+Content Type: image/svg+xml
+
+Uri: https://deebo.io/static/media/delete-ico.47fa169e5fb653670792.svg
+File Name: C:\Downloaded Web Sites\deebo.io\static\media\delete-ico.47fa169e5fb653670792.svg
+Content Type: image/svg+xml
+
+Uri: https://deebo.io/static/media/dexscreener.d2097438eb9771959b45.svg
+File Name: C:\Downloaded Web Sites\deebo.io\static\media\dexscreener.d2097438eb9771959b45.svg
+Content Type: image/svg+xml
+
+Uri: https://deebo.io/static/media/dextools-y.fc7e910a97ed6efdefae.svg
+File Name: C:\Downloaded Web Sites\deebo.io\static\media\dextools-y.fc7e910a97ed6efdefae.svg
+Content Type: image/svg+xml
+
+Uri: https://deebo.io/static/media/dextools.8baae48661d59aa94a2d.svg
+File Name: C:\Downloaded Web Sites\deebo.io\static\media\dextools.8baae48661d59aa94a2d.svg
+Content Type: image/svg+xml
+
+Uri: https://deebo.io/static/media/directional.0668a62abb2b5beab7d9.webp
+File Name: C:\Downloaded Web Sites\deebo.io\static\media\directional.0668a62abb2b5beab7d9.webp
+Content Type: image/webp
+
+Uri: https://deebo.io/static/media/dwn-ico.7cb8173ad03a04db01ae.svg
+File Name: C:\Downloaded Web Sites\deebo.io\static\media\dwn-ico.7cb8173ad03a04db01ae.svg
+Content Type: image/svg+xml
+
+Uri: https://deebo.io/static/media/etherscan.4108a973db469732580a.svg
+File Name: C:\Downloaded Web Sites\deebo.io\static\media\etherscan.4108a973db469732580a.svg
+Content Type: image/svg+xml
+
+Uri: https://deebo.io/static/media/external.4daf614d0ba836acdd39.svg
+File Name: C:\Downloaded Web Sites\deebo.io\static\media\external.4daf614d0ba836acdd39.svg
+Content Type: image/svg+xml
+
+Uri: https://deebo.io/static/media/gecko.2a431a95c674673ecea7.svg
+File Name: C:\Downloaded Web Sites\deebo.io\static\media\gecko.2a431a95c674673ecea7.svg
+Content Type: image/svg+xml
+
+Uri: https://deebo.io/static/media/hflip.201148aad8da934b79ff.svg
+File Name: C:\Downloaded Web Sites\deebo.io\static\media\hflip.201148aad8da934b79ff.svg
+Content Type: image/svg+xml
+
+Uri: https://deebo.io/static/media/landscape-contest.0c8757b3e2291a9f193b.webp
+File Name: C:\Downloaded Web Sites\deebo.io\static\media\landscape-contest.0c8757b3e2291a9f193b.webp
+Content Type: image/webp
+
+Uri: https://deebo.io/static/media/memedepot.d6324bb948830f8d7c8e.svg
+File Name: C:\Downloaded Web Sites\deebo.io\static\media\memedepot.d6324bb948830f8d7c8e.svg
+Content Type: image/svg+xml
+
+Uri: https://deebo.io/static/media/noise.c5d03fee5564f5d76e30.webp
+File Name: C:\Downloaded Web Sites\deebo.io\static\media\noise.c5d03fee5564f5d76e30.webp
+Content Type: image/webp
+
+Uri: https://deebo.io/static/media/prerich-ico.d6c4f75d5b51ec31e510.svg
+File Name: C:\Downloaded Web Sites\deebo.io\static\media\prerich-ico.d6c4f75d5b51ec31e510.svg
+Content Type: image/svg+xml
+
+Uri: https://deebo.io/static/media/raydium-ico.31d938bb8fc86f3458bd.svg
+File Name: C:\Downloaded Web Sites\deebo.io\static\media\raydium-ico.31d938bb8fc86f3458bd.svg
+Content Type: image/svg+xml
+
+Uri: https://deebo.io/static/media/rotate-ico.20f9cebe894636e200a9.svg
+File Name: C:\Downloaded Web Sites\deebo.io\static\media\rotate-ico.20f9cebe894636e200a9.svg
+Content Type: image/svg+xml
+
+Uri: https://deebo.io/static/media/scale-ico.2ca65281dd67a6628678.svg
+File Name: C:\Downloaded Web Sites\deebo.io\static\media\scale-ico.2ca65281dd67a6628678.svg
+Content Type: image/svg+xml
+
+Uri: https://deebo.io/static/media/solscan-y.e92bafa1a551aaa2021d.svg
+File Name: C:\Downloaded Web Sites\deebo.io\static\media\solscan-y.e92bafa1a551aaa2021d.svg
+Content Type: image/svg+xml
+
+Uri: https://deebo.io/static/media/solscan.5c464e6cd89c6cc77718.svg
+File Name: C:\Downloaded Web Sites\deebo.io\static\media\solscan.5c464e6cd89c6cc77718.svg
+Content Type: image/svg+xml
+
+Uri: https://deebo.io/static/media/speechcloud.5555d15f1524e10c95ec.webp
+File Name: C:\Downloaded Web Sites\deebo.io\static\media\speechcloud.5555d15f1524e10c95ec.webp
+Content Type: image/webp
+
+Uri: https://deebo.io/static/media/tg-y.1ff621c84b353a2677d7.svg
+File Name: C:\Downloaded Web Sites\deebo.io\static\media\tg-y.1ff621c84b353a2677d7.svg
+Content Type: image/svg+xml
+
+Uri: https://deebo.io/static/media/tg.4f6589b5352a9bdfab12.svg
+File Name: C:\Downloaded Web Sites\deebo.io\static\media\tg.4f6589b5352a9bdfab12.svg
+Content Type: image/svg+xml
+
+Uri: https://deebo.io/static/media/tiktok.0974102c6838161d71f8.svg
+File Name: C:\Downloaded Web Sites\deebo.io\static\media\tiktok.0974102c6838161d71f8.svg
+Content Type: image/svg+xml
+
+Uri: https://deebo.io/static/media/tw-y.ee649c28227c2da1d568.svg
+File Name: C:\Downloaded Web Sites\deebo.io\static\media\tw-y.ee649c28227c2da1d568.svg
+Content Type: image/svg+xml
+
+Uri: https://deebo.io/static/media/tw.e217529426fe36f3cd93.svg
+File Name: C:\Downloaded Web Sites\deebo.io\static\media\tw.e217529426fe36f3cd93.svg
+Content Type: image/svg+xml
+
+Uri: https://deebo.io/static/media/upl-ico.52f311284f5a460499f8.svg
+File Name: C:\Downloaded Web Sites\deebo.io\static\media\upl-ico.52f311284f5a460499f8.svg
+Content Type: image/svg+xml
+
+Uri: https://deebo.io/static/media/vflip.724d540faed7d3b391c3.svg
+File Name: C:\Downloaded Web Sites\deebo.io\static\media\vflip.724d540faed7d3b391c3.svg
+Content Type: image/svg+xml
+
